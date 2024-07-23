@@ -33,6 +33,24 @@ const projectsData = [
       gitUrl: "https://github.com/Rishi0627/Snake-game",
       previewUrl: "https://rishi0627.github.io/Snake-game/",
     },
+    {
+      id: 4,
+      title: "Simon Game",
+      description: "The game challenges players to repeat a series of randomly generated patterns of colors and sounds, testing their memory and concentration skills.Try your hand at this nostalgic game.",
+      image: "/images/projects/4.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://rishi0627.github.io/simon-game/",
+      previewUrl: "https://github.com/Rishi0627/simon-game",
+    },
+    {
+      id: 5,
+      title: "Dice Game",
+      description: " Devloped random selecting dice game using HTML, CSS, and JavaScript. This game involves rolling a virtual dice and selecting a random number between 1 and 6..",
+      image: "/images/projects/5.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://rishi0627.github.io/Dice-game/",
+      previewUrl: "https://github.com/Rishi0627/Dice-game",
+    },
   
    
   ];
